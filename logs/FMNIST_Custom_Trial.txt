@@ -1,0 +1,129 @@
+0.Trial 1, Random Seed: 1234:
+
+Number of Epoch = 20 - Average Cross Entropy:= 0.002393542022705078 - Stderr:=0.0012085044781998046 - Var:= 0.0730241536914491 
+
+Validation Accuracy: 0.8773
+
+Total time taken (in seconds): 366.71
+
+Test loss: 0.0944
+
+Test Accuracy: 0.87
+
+Trial 2, Random Seed: 1111:
+100%|██████████| 20/20 [05:44<00:00, 17.22s/it]
+Train Accuracy: 0.8940
+Number of Epoch = 20 - Average Cross Entropy:= 0.0024061134338378906 - Stderr:=0.0012086365587169598 - Var:= 0.07304011655335874 
+
+Validation Accuracy: 0.8711
+
+Total time taken (in seconds): 344.42
+
+Test loss: 0.0932
+
+Test Accuracy: 0.87
+
+Trial 3, Random Seed: 2222:
+100%|██████████| 20/20 [05:34<00:00, 16.70s/it]
+Train Accuracy: 0.8955
+Number of Epoch = 20 - Average Cross Entropy:= 0.0023940521240234376 - Stderr:=0.0012084055844119852 - Var:= 0.07301220282190357 
+
+Validation Accuracy: 0.8765
+
+Total time taken (in seconds): 334.02
+
+Test loss: 0.0939
+
+Test Accuracy: 0.8695
+
+Trial 4, Random Seed: 3333:
+100%|██████████| 20/20 [05:45<00:00, 17.25s/it]
+Train Accuracy: 0.8956
+Number of Epoch = 20 - Average Cross Entropy:= 0.002351217803955078 - Stderr:=0.0012135132752888102 - Var:= 0.0736307234651088 
+
+Validation Accuracy: 0.8745
+
+Total time taken (in seconds): 345.07
+
+Test loss: 0.0921
+
+Test Accuracy: 0.8707
+
+Trial 5, Random Seed: 4444:
+100%|██████████| 20/20 [06:05<00:00, 18.25s/it]
+Train Accuracy: 0.8975
+Number of Epoch = 20 - Average Cross Entropy:= 0.0023483502197265624 - Stderr:=0.0012115795152248317 - Var:= 0.0733962460856219 
+
+Validation Accuracy: 0.8729
+
+Total time taken (in seconds): 365.06
+
+Test loss: 0.0920
+
+Test Accuracy: 0.8715
+
+Trial 6, Random Seed: 5555:
+100%|██████████| 20/20 [06:31<00:00, 19.57s/it]
+Train Accuracy: 0.8963
+Number of Epoch = 20 - Average Cross Entropy:= 0.002380272979736328 - Stderr:=0.001208624430233548 - Var:= 0.07303865066786841 
+
+Validation Accuracy: 0.8754
+
+Total time taken (in seconds): 391.38
+
+Test loss: 0.0923
+
+Test Accuracy: 0.8697
+
+Trial 7, Random Seed: 6666:
+100%|██████████| 20/20 [06:15<00:00, 18.78s/it]
+Train Accuracy: 0.8957
+Number of Epoch = 20 - Average Cross Entropy:= 0.0023898939514160156 - Stderr:=0.001209751579510622 - Var:= 0.07317494420642223 
+
+Validation Accuracy: 0.8758
+
+Total time taken (in seconds): 375.59
+
+Test loss: 0.0922
+
+Test Accuracy: 0.8663
+
+Trial 8, Random Seed: 7777:
+
+100%|██████████| 20/20 [05:37<00:00, 16.88s/it]
+Train Accuracy: 0.8927
+Number of Epoch = 20 - Average Cross Entropy:= 0.0024015818786621095 - Stderr:=0.0012087093296174307 - Var:= 0.07304891217521092 
+
+Validation Accuracy: 0.8681
+
+Total time taken (in seconds): 337.56
+
+Test loss: 0.0949
+
+Test Accuracy: 0.8677
+
+Trial 9, Random Seed: 8888:
+100%|██████████| 20/20 [05:58<00:00, 17.92s/it]
+Train Accuracy: 0.8938
+Number of Epoch = 20 - Average Cross Entropy:= 0.0024266026306152344 - Stderr:=0.0012059754894883845 - Var:= 0.07271884406233742 
+
+Validation Accuracy: 0.8752
+
+Total time taken (in seconds): 358.34
+
+Test loss: 0.0938
+
+Test Accuracy: 0.8673
+
+Trial 10, Random Seed: 9999:
+100%|██████████| 20/20 [05:54<00:00, 17.72s/it]
+Train Accuracy: 0.8944
+Number of Epoch = 20 - Average Cross Entropy:= 0.0023993446350097656 - Stderr:=0.0012105111424442917 - Var:= 0.07326686129908921 
+
+Validation Accuracy: 0.8752
+
+Total time taken (in seconds): 354.39
+
+Test loss: 0.0918
+
+Test Accuracy: 0.8706

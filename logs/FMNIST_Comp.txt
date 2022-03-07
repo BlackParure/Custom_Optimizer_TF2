@@ -1,0 +1,36 @@
+Adam Seed=9999:
+100%|██████████| 20/20 [06:03<00:00, 18.16s/it]
+Train Accuracy: 0.8636
+Number of Epoch = 20 - Average Cross Entropy:= 0.0030659918212890625 - Stderr:=0.001175851668694367 - Var:= 0.06913135733856635 
+
+Validation Accuracy: 0.8538
+
+Total time taken (in seconds): 363.26
+Test loss: 0.1092
+
+Test Accuracy: 0.8467
+
+RMS Seed=9999:
+100%|██████████| 20/20 [05:53<00:00, 17.70s/it]
+Train Accuracy: 0.8618
+Number of Epoch = 20 - Average Cross Entropy:= 0.003100290222167969 - Stderr:=0.0011732011285887534 - Var:= 0.06882004440609624 
+
+Validation Accuracy: 0.8490
+
+Total time taken (in seconds): 353.96
+Test loss: 0.1101
+
+Test Accuracy: 0.8470
+
+SGD Seed=9999:
+100%|██████████| 20/20 [03:16<00:00,  9.84s/it]
+Train Accuracy: 0.8648
+Number of Epoch = 20 - Average Cross Entropy:= 0.0029936065673828124 - Stderr:=0.0011717017281669627 - Var:= 0.06864424698947236 
+
+Validation Accuracy: 0.8586
+
+Total time taken (in seconds): 196.76
+
+Test loss: 0.1058
+
+Test Accuracy: 0.8521

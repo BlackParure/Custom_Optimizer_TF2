@@ -1,0 +1,116 @@
+Adam Seed=1234:
+100%|██████████| 20/20 [05:25<00:00, 16.30s/it]
+Train Accuracy: 0.8860
+Number of Epoch = 20 - Average Cross Entropy:= 0.0025484523010253905 - Stderr:=0.0012157791692062204 - Var:= 0.07390594941378836 
+
+Validation Accuracy: 0.8700
+
+Total time taken (in seconds): 325.91
+Test loss: 0.1019
+
+Test Accuracy: 0.8628
+Adam Seed=1111:
+100%|██████████| 20/20 [05:35<00:00, 16.75s/it]
+Train Accuracy: 0.8868
+Number of Epoch = 20 - Average Cross Entropy:= 0.0025555044555664063 - Stderr:=0.0012136282959611664 - Var:= 0.07364468203788022 
+
+Validation Accuracy: 0.8695
+
+Total time taken (in seconds): 335.04
+Test loss: 0.0991
+
+Test Accuracy: 0.8639
+Adam Seed=2222:
+100%|██████████| 20/20 [06:12<00:00, 18.60s/it]
+Train Accuracy: 0.8875
+Number of Epoch = 20 - Average Cross Entropy:= 0.0025428094482421873 - Stderr:=0.0012160902448137278 - Var:= 0.07394377417655562 
+
+Validation Accuracy: 0.8703
+
+Total time taken (in seconds): 372.09
+Test loss: 0.1007
+
+Test Accuracy: 0.8630
+
+Adam Seed=3333:
+100%|██████████| 20/20 [05:35<00:00, 16.75s/it]
+Train Accuracy: 0.8890
+Number of Epoch = 20 - Average Cross Entropy:= 0.0025632211303710938 - Stderr:=0.001212395588894398 - Var:= 0.07349515319852973 
+
+Validation Accuracy: 0.8699
+
+Total time taken (in seconds): 335.08
+Test loss: 0.0996
+
+Test Accuracy: 0.8644
+
+Adam Seed=4444:
+100%|██████████| 20/20 [06:20<00:00, 19.02s/it]
+Train Accuracy: 0.8881
+Number of Epoch = 20 - Average Cross Entropy:= 0.0025245413208007813 - Stderr:=0.0012142812348648422 - Var:= 0.07372394586724429 
+
+Validation Accuracy: 0.8711
+
+Total time taken (in seconds): 380.43
+Test loss: 0.0973
+
+Test Accuracy: 0.8690
+
+
+Adam Seed=5555:
+100%|██████████| 20/20 [05:57<00:00, 17.87s/it]
+Train Accuracy: 0.8874
+Number of Epoch = 20 - Average Cross Entropy:= 0.002560106201171875 - Stderr:=0.001215028402755025 - Var:= 0.07381470097507137 
+
+Validation Accuracy: 0.8752
+
+Total time taken (in seconds): 357.50
+Test loss: 0.0982
+
+Test Accuracy: 0.8636
+Adam Seed=6666:
+100%|██████████| 20/20 [05:36<00:00, 16.84s/it]
+Train Accuracy: 0.8875
+Number of Epoch = 20 - Average Cross Entropy:= 0.002572496032714844 - Stderr:=0.0012137438497536724 - Var:= 0.07365870664074325 
+
+Validation Accuracy: 0.8762
+
+Total time taken (in seconds): 336.78
+Test loss: 0.0980
+
+Test Accuracy: 0.8649
+
+Adam Seed=7777:
+100%|██████████| 20/20 [06:34<00:00, 19.73s/it]
+Train Accuracy: 0.8862
+Number of Epoch = 20 - Average Cross Entropy:= 0.0025782571411132812 - Stderr:=0.0012127991608479256 - Var:= 0.07354409022767161 
+
+Validation Accuracy: 0.8708
+
+Total time taken (in seconds): 394.68
+Test loss: 0.0996
+
+Test Accuracy: 0.8658
+Adam Seed=8888:
+100%|██████████| 20/20 [05:45<00:00, 17.26s/it]
+Train Accuracy: 0.8872
+Number of Epoch = 20 - Average Cross Entropy:= 0.0025721292114257812 - Stderr:=0.0012146677469735705 - Var:= 0.07377088677689247 
+
+Validation Accuracy: 0.8725
+
+Total time taken (in seconds): 345.16
+Test loss: 0.0983
+
+Test Accuracy: 0.8637
+
+Adam Seed=9999:
+100%|██████████| 20/20 [06:03<00:00, 18.16s/it]
+Train Accuracy: 0.8636
+Number of Epoch = 20 - Average Cross Entropy:= 0.0030659918212890625 - Stderr:=0.001175851668694367 - Var:= 0.06913135733856635 
+
+Validation Accuracy: 0.8538
+
+Total time taken (in seconds): 363.26
+Test loss: 0.1092
+
+Test Accuracy: 0.8467
